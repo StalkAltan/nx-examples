@@ -24,7 +24,8 @@
     "help": "nx help",
     "nx": "nx",
     "postinstall": "ngcc --properties es2020 browser module main && node decorate-angular-cli.js",
-    "workspace-generator": "nx workspace-generator"
+    "workspace-generator": "nx workspace-generator",
+    "script": "echo hello1111"
   },
   "private": true,
   "dependencies": {
